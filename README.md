@@ -13,7 +13,7 @@ The `queued` command takes a `queue-file` and a `command` as arguments, the `que
  - `queued <queue-file> <command>`
  - `queued ~/QUEUE run_task.py`
 
-## Exaxmple
+## Example
 
  - Clone thid repo: `echo "hello world" > QUEUE && queued QUEUE echo`
 
