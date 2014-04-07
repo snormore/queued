@@ -19,5 +19,5 @@ The `queued` command takes a `queue-file` and a `command` as arguments, the `que
 
 ## Related
 
- - See github.com/snormore/queued-cookbook for a chef cookbook that turns this into an runit service.
+ - See http://github.com/snormore/queued-cookbook for a chef cookbook that turns this into a runit service.
 
