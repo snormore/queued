@@ -15,7 +15,7 @@ The `queued` command takes a `queue-file` and a `command` as arguments, the `que
 
 ## Example
 
- - Clone thid repo: `echo "hello world" > QUEUE && queued QUEUE echo`
+ - `printf "one\ntwo\nthree\nfour\nfive" > QUEUE && queued QUEUE echo`
 
 ## Related
 
