@@ -21,3 +21,7 @@ The `queued` command takes a `queue-file` and a `command` as arguments, the `que
 
  - See http://github.com/snormore/queued-cookbook for a chef cookbook that turns this into a runit service.
 
+## TODO
+
+ - If a job fails, take it out of the QUEUE and place it in QUEUE.failed, continue running next jobs in the QUEUE
+ - After a job finishes successfully, add it to the QUEUE.done
