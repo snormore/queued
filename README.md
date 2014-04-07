@@ -1,6 +1,6 @@
 # Queued
 
-A simple but effective file based queue written in bash.
+A simple but effective file based task queue written in bash.
 
 ## Install
 
